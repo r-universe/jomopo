@@ -1,5 +1,9 @@
 [
   {
+    "package": "VisualDom",
+    "oncran": true
+  },
+  {
     "package": "W2CWM2C",
     "oncran": true
   }
