@@ -3,6 +3,26 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BINCOR"]
+	path = BINCOR
+	url = https://github.com/cran/BINCOR
+	shallow = true
+	registered = true
+[submodule "NonParRolCor"]
+	path = NonParRolCor
+	url = https://github.com/cran/NonParRolCor
+	shallow = true
+	registered = true
+[submodule "RolWinMulCor"]
+	path = RolWinMulCor
+	url = https://github.com/cran/RolWinMulCor
+	shallow = true
+	registered = true
+[submodule "RolWinWavCor"]
+	path = RolWinWavCor
+	url = https://github.com/cran/RolWinWavCor
+	shallow = true
+	registered = true
 [submodule "VisualDom"]
 	path = VisualDom
 	url = https://github.com/jomopo/visualdom
